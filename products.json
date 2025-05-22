@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Tactical Mousepad",
+    "price": "$34.99",
+    "image": "mousepad1.png",
+    "description": "A sleek black mousepad with smooth glide and high durability. Perfect for gamers and designers alike."
+  },
+  {
+    "id": 2,
+    "name": "Dragon Mousepad",
+    "price": "$34.99",
+    "image": "mousepad2.png",
+    "description": "An aesthetic dragon mousepad to give your setup chill vibes."
+  }
+]
