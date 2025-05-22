@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Product Page</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+  <div id="product-details">
+    <!-- Product info will be injected here -->
+  </div>
+
+<button id="button">Delivery</button>
+
+<script>
+  const params = new URLSearchParams(window.location.search);
+  const productId = parseInt(params.get('id'));
+  const productContainer = document.getElementById('product-details');
+  const btn = document.getElementById('button');
+
+  fetch('products.json')
+    .then(res => res.json())
+    .then(products => {
+      const product = products.find(p => p.id === productId);
+
+      if (product) {
+        productContainer.innerHTML = `
+          <h1>${product.name}</h1>
+          <img src="${product.image}" alt="${product.name}">
+          <p><strong>${product.price}</strong></p>
+          <p>${product.description}</p>
+          <button class="button">Add to Cart</button>
+        `;
+      } else {
+        productContainer.innerHTML = `
+          <h1>Product not found</h1>
+          <p>We couldn’t find the item you were looking for 😔</p>
+          <a href="index.html" class="button">Back to Shop</a>
+        `;
+      }
+    })
+    .catch(err => {
+      console.error("Failed to load product data:", err);
+      productContainer.innerHTML = `<p>Something went wrong loading the product 😵‍💫</p>`;
+    });
+
+    btn.addEventListener('click', () => {
+      if (btn.textContent === 'Delivery') {
+        btn.textContent = 'Pick Up';
+      } else {
+        btn.textContent = 'Delivery';
+      }
+    });
+</script>
+
+</body>
+</html>
