@@ -2,15 +2,36 @@
   {
     "id": 1,
     "name": "Tactical Mousepad",
-    "price": "$34.99",
+    "price": "$34.99 (free shiping)",
     "image": "mousepad1.png",
-    "description": "A sleek black mousepad with smooth glide and high durability. Perfect for gamers and designers alike."
+    "description": "A sleek black mousepad with smooth glide and high durability. Large Size 800x 400mm <br> <br> <b>Features</b> - Anti-Slip, Durable, Water proof, Collapsible, Easy To Clean, professional"
   },
   {
     "id": 2,
     "name": "Dragon Mousepad",
-    "price": "$34.99",
+    "price": "$34.99 (free shiping)",
     "image": "mousepad2.png",
-    "description": "An aesthetic dragon mousepad to give your setup chill vibes."
+    "description": "An aesthetic dragon mousepad to give your setup chill vibes. Large Size 800 x 400mm <br> <br> <b>Features</b> - Anti-Slip, Durable, Water proof, Collapsible, Easy To Clean, professional <br> <br> <b>High quality Material</b> - rubber, EVA, sbr, neoprene base, fabric, cloth"
+  },
+  {
+    "id": 3,
+    "name": "Soccer Mousepad",
+    "price": "$34.99 (free shiping)",
+    "image": "mousepad3.png",
+    "description": "A premium soccer-themed mousepad featuring a vibrant pitch design, engineered for precision tracking and all-day comfort.. Large Size 800 x 400mm <br> <br> <b>Features</b> - Anti-Slip, Durable, Water proof, Collapsible, Easy To Clean, professional <br> <br> <b>High quality Material</b> - rubber, EVA, sbr, neoprene base, fabric, cloth"
+  },
+  { "id": 4,
+    "name": "Fortnite Mousepad",
+    "price": "$34.99 (free shiping)",
+    "image": "mousepad4.png",
+    "description": "A high-performance Fortnite-themed mousepad showcasing iconic in-game artwork, crafted with a smooth glide surface and anti-slip base for peak gaming accuracy, engineered for precision tracking and all-day comfort.. Large Size 800 x 400mm <br> <br> <b>Features</b> - Anti-Slip, Durable, Water proof, Collapsible, Easy To Clean, professional <br> <br> <b>High quality Material</b> - rubber, EVA, sbr, neoprene base, fabric, cloth"
+
+  },
+  { "id": 5,
+    "name": "Fortnite Mousepad",
+    "price": "$34.99 (free shiping)",
+    "image": "mousepad5.png",
+    "description": "A high-performance Fortnite-themed mousepad showcasing iconic in-game artwork, crafted with a smooth glide surface and anti-slip base for peak gaming accuracy, engineered for precision tracking and all-day comfort.. Large Size 800 x 400mm <br> <br> <b>Features</b> - Anti-Slip, Durable, Water proof, Collapsible, Easy To Clean, professional <br> <br> <b>High quality Material</b> - rubber, EVA, sbr, neoprene base, fabric, cloth"
+
   }
 ]
