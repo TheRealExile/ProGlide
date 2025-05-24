@@ -18,20 +18,20 @@
     "name": "Soccer Mousepad",
     "price": "$34.99 (free shiping)",
     "image": "mousepad3.png",
-    "description": "A premium soccer-themed mousepad featuring a vibrant pitch design, engineered for precision tracking and all-day comfort.. Large Size 800 x 400mm <br> <br> <b>Features</b> - Anti-Slip, Durable, Water proof, Collapsible, Easy To Clean, professional <br> <br> <b>High quality Material</b> - rubber, EVA, sbr, neoprene base, fabric, cloth"
+    "description": "A premium soccer-themed mousepad featuring a vibrant pitch design, engineered for precision tracking and all-day comfort. Large Size 800 x 400mm <br> <br> <b>Features</b> - Anti-Slip, Durable, Water proof, Collapsible, Easy To Clean, professional <br> <br> <b>High quality Material</b> - rubber, EVA, sbr, neoprene base, fabric, cloth"
   },
-  { "id": 4,
+  {    "id": 4,
     "name": "Fortnite Mousepad",
     "price": "$34.99 (free shiping)",
     "image": "mousepad4.png",
     "description": "A high-performance Fortnite-themed mousepad showcasing iconic in-game artwork, crafted with a smooth glide surface and anti-slip base for peak gaming accuracy, engineered for precision tracking and all-day comfort.. Large Size 800 x 400mm <br> <br> <b>Features</b> - Anti-Slip, Durable, Water proof, Collapsible, Easy To Clean, professional <br> <br> <b>High quality Material</b> - rubber, EVA, sbr, neoprene base, fabric, cloth"
 
   },
-  { "id": 5,
-    "name": "Fortnite Mousepad",
+  {    "id": 5,
+    "name": "Dirtbike Mousepad",
     "price": "$34.99 (free shiping)",
     "image": "mousepad5.png",
-    "description": "A high-performance Fortnite-themed mousepad showcasing iconic in-game artwork, crafted with a smooth glide surface and anti-slip base for peak gaming accuracy, engineered for precision tracking and all-day comfort.. Large Size 800 x 400mm <br> <br> <b>Features</b> - Anti-Slip, Durable, Water proof, Collapsible, Easy To Clean, professional <br> <br> <b>High quality Material</b> - rubber, EVA, sbr, neoprene base, fabric, cloth"
+    "description": "Unleash your inner rider with this high-performance mousepad featuring dynamic dirtbike artwork. Designed for gamers, creators, and professionals alike, it combines stunning visuals with pro-grade functionality. The ultra-smooth glide surface ensures flawless tracking, while the anti-slip base keeps your setup locked in—even during high-speed action. Whether you're working or gaming, this large 800 x 400mm pad offers the space and stability you need to dominate every move. <br> <b>Features</b> – Anti-Slip, Durable, Waterproof, Collapsible, Easy to Clean, Professional-Grade <br><br> <b>High Quality Material</b> – Rubber, EVA, SBR, Neoprene Base, Fabric, Cloth"
 
   }
 ]
